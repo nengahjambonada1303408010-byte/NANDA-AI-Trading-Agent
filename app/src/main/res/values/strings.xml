@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NANDA AI Trading</string>
+
+    <!-- Menu -->
+    <string name="menu_setup">Setup</string>
+    <string name="menu_about">Tentang</string>
+    <string name="menu_settings">Pengaturan</string>
+
+    <!-- Status -->
+    <string name="status_overlay">Overlay Service</string>
+    <string name="status_auto_trade">Auto Trading</string>
+    <string name="status_testnet">Testnet</string>
+
+    <!-- Settings -->
+    <string name="settings_trading">Pengaturan Trading</string>
+    <string name="symbol">Symbol</string>
+    <string name="timeframe">Timeframe</string>
+    <string name="risk_per_trade">Risk per Trade</string>
+    <string name="leverage">Leverage</string>
+    <string name="save_settings">SIMPAN PENGATURAN</string>
+
+    <!-- Actions -->
+    <string name="start_overlay">MULAI OVERLAY</string>
+    <string name="test_api">TEST API</string>
+    <string name="api_keys">API KEYS</string>
+    <string name="trade_history">RIWAYAT TRADING</string>
+
+    <!-- Setup -->
+    <string name="setup_welcome_title">Selamat Datang</string>
+    <string name="setup_welcome_desc">NANDA AI Trading Agent akan membantu Anda trading dengan analisa AI otomatis.</string>
+    <string name="setup_overlay_title">Izin Overlay</string>
+    <string name="setup_overlay_desc">Aplikasi memerlukan izin untuk menampilkan floating ball di atas aplikasi trading.</string>
+    <string name="setup_accessibility_title">Izin Accessibility</string>
+    <string name="setup_accessibility_desc">Izin ini digunakan untuk mendeteksi saat Anda membuka aplikasi trading.</string>
+    <string name="setup_api_title">API Configuration</string>
+    <string name="setup_api_desc">Masukkan API Key untuk mengaktifkan fitur trading dan analisa AI.</string>
+    <string name="setup_complete_title">Setup Selesai!</string>
+    <string name="setup_complete_desc">NANDA AI siap digunakan. Tap tombol di bawah untuk memulai.</string>
+
+    <!-- Notifications -->
+    <string name="notif_trade_executed">Trade Executed</string>
+    <string name="notif_signal">Trading Signal</string>
+    <string name="notif_system">NANDA AI System</string>
+
+    <!-- Errors -->
+    <string name="error_no_api_key">API Key belum diatur</string>
+    <string name="error_network">Koneksi internet tidak tersedia</string>
+    <string name="error_api">Gagal terhubung ke API</string>
+    <string name="error_trade_failed">Trade gagal dieksekusi</string>
+</resources>
